@@ -9,8 +9,8 @@
 &nbsp;
 
 ## Environment
-Java SE 8(1.8.0)  
-Eclipse 4.16(2020-06)  
+Java SE 8 (1.8.0)  
+Eclipse 4.16 (2020-06)  
 &nbsp;
 
 ## Demonstration
