@@ -1,4 +1,4 @@
-# ⚾Hero Baseball Simulator⚾
+# ⚾ Hero Baseball Simulator ⚾
 히어로 야구 시뮬레이션 게임  
 &nbsp;
 
