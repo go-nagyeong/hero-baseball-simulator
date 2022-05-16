@@ -10,9 +10,8 @@
 &nbsp;
 
 ## Environment
-Mac OS  
-Java SE 8 (1.8.0)  
-Eclipse 4.16 (2020-06)  
+java se 8 (1.8.0)  
+eclipse 4.16 (2020-06)  
 &nbsp;
 
 ## Demonstration
